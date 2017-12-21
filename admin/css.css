@@ -1,0 +1,30 @@
+
+body {
+    width: 65%;
+    max-width: 1080px;
+    margin: 0 auto;
+    font-size: 14px;
+    line-height: 1.7;
+}
+header{
+    text-align: center;
+    margin-top: 15%;
+}
+
+section a{
+    text-decoration: none;
+    color: #a71368;
+}
+.post-set{
+    margin-right: 10px;
+}
+.add{
+    width: 10%;
+    position:fixed;
+    right: 25%;
+    bottom:20px;
+}
+.add img{
+    width: 75%;
+
+}
