@@ -11,23 +11,14 @@
 
     $_mysqli = new mysqli("localhost", "root", "104207");
     if(mysqli_connect_errno()){
-        echo "连接出错";
+        echo "连接出错 请检查服务器连接等等...";
     }
     foreach ($_arr as $value){
         $_mysqli->query($value.';');
     }
     $_mysqli->close();
     $_mysqli = null;
+    echo "<h1>已经执行成功</h1>"
     //已经执行成功
 ?>
-<!doctype html>
-<html lang="ch">
-<head>
-    <title>配置</title>
-</head>
-<body>
-<form method="post" action="<?php echo htmlspecialchars($_SERVER["PHP_SELF"]);?>">
-    <input type="text" >
-</form>
-</body>
-</html>
+
