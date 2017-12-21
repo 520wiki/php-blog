@@ -1,12 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a541d4de-b5fe-4681-984b-8de4c10532ce" name="默认" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/install/mySql.sql" afterPath="$PROJECT_DIR$/install/mySql.sql" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/install/mysql.php" afterPath="$PROJECT_DIR$/install/mysql.php" />
-    </list>
+    <list default="true" id="a541d4de-b5fe-4681-984b-8de4c10532ce" name="默认" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -445,15 +440,15 @@
       <workItem from="1513843454480" duration="34000" />
       <workItem from="1513843726231" duration="11000" />
       <workItem from="1513843906971" duration="7628000" />
-      <workItem from="1513851611992" duration="8056000" />
+      <workItem from="1513851611992" duration="8201000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="36025000" />
+    <option name="totallyTimeSpent" value="36170000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="63" y="53" width="1330" height="992" extended-state="0" />
+    <frame x="63" y="53" width="1330" height="992" extended-state="1" />
     <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2621951" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
