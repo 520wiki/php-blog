@@ -8,7 +8,7 @@
 
 把该项目引入服务器下，
 
-修改install/mysql.php下的数据库连接信息。
+**修改/util/dbUtil.php下的数据库连接信息。**
 
 执行/install/mysql.php 即创建数据库。
 
@@ -22,3 +22,6 @@
 
 ![首页](https://github.com/hqweay/php-blog/blob/master/%E6%88%AA%E5%9B%BE%E6%95%88%E6%9E%9C/%E9%A6%96%E9%A1%B5.png?raw=true)
 
+### 更多
+
+[更多截图请点击查看](https://github.com/hqweay/php-blog/tree/master/%E6%88%AA%E5%9B%BE%E6%95%88%E6%9E%9C)
