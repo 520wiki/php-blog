@@ -1,5 +1,5 @@
-<?php
-
+﻿<?php
+    include "../util/dbUtil.php";
     //定义数据库连接数据
     $util = new dbUtil();
     $_mysqli = $util->get_connection();
