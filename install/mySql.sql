@@ -1,4 +1,4 @@
-CREATE DATABASE 'hqweay_blog';
+﻿CREATE DATABASE hqweay_blog;
 use hqweay_blog;
 
 DROP TABLE IF EXISTS `post`;
