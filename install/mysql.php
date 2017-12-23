@@ -4,7 +4,7 @@
     $util = new dbUtil();
     $_mysqli = $util->get_connection();
     //打开数据库脚本
-    $_sql = file_get_contents('mysql.sql');
+    $_sql = file_get_contents('mySql.sql');
     //以分号分割语句
     $_arr = explode(';', $_sql);
     if(mysqli_connect_errno()){
